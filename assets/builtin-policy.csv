@@ -1,6 +1,7 @@
 # Built-in policy which defines two roles: role:readonly and role:admin,
 # and additionally assigns the admin user to the role:admin role.
 
+
 # There are two policy formats:
 # 1. Applications, applicationsets, logs, and exec (which belong to a project):
 # p, <role/user/group>, <resource>, <action>, <project>/<object>, <allow/deny>
